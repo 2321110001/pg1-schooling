@@ -23,7 +23,7 @@ def qa(data)
   qa(qa1)
 
   qa2 = {
-    title: "今日に服の色は?",
+    title: "今日の服の色は?",
     a1: "1 グレー",
     a2: "2 白",
     a3: "3 黒",
@@ -39,3 +39,4 @@ def qa(data)
     num: 1
   }
   qa(qa3)
+
